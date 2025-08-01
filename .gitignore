@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.env.*
+venv/
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# Playwright artifacts
+test-results/
+*.log
+
+# Test reports
+allure-results/
+reports/
